@@ -1,0 +1,31 @@
+{
+  "name": "make-number-more-readable",
+  "version": "1.0.0",
+  "description": "convert number more readable",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FroadUED/make-number-more-readable.git"
+  },
+  "keywords": [
+    "convert",
+    "number",
+    "more",
+    "readable"
+  ],
+  "author": "phil.liu.cn@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FroadUED/make-number-more-readable/issues"
+  },
+  "homepage": "https://github.com/FroadUED/make-number-more-readable",
+  "devDependencies": {
+    "extend": "^3.0.0"
+  },
+  "dependencies": {
+    "extend": "^3.0.0"
+  }
+}
